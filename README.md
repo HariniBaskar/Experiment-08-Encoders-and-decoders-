@@ -106,6 +106,7 @@ endmodule
 ### TIMING DIGRAMS  
 #### ENCODER
 <img width="356" alt="encodertd" src="https://user-images.githubusercontent.com/93427253/171683060-ced5713d-ac91-4c57-b026-80d2497497df.png">
+
 #### DECODER
 <img width="1262" alt="decodetd" src="https://user-images.githubusercontent.com/93427253/171683116-052e08d6-fb1b-405f-8dee-36b75831376d.png">
 
